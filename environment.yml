@@ -1,0 +1,9 @@
+name: ch_lidar
+
+dependencies:
+  - ipykernel
+  - matplotlib
+  - pandas
+  - numpy
+  - python
+  - rasterio
